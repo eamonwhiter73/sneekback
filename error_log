@@ -1,0 +1,131 @@
+
+*****RESPONSE******
+402
+*****WHYDECODE******
+
+*****FALSE*******POSITITVE******
+
+*****RESPONSE******
+402
+*****WHYDECODE******
+
+*****FALSE*******POSITITVE******
+
+*****RESPONSE******
+
+*****WHYDECODE******
+
+*****FALSE*******POSITITVE******
+
+*****RESPONSE******
+
+*****WHYDECODE******
+
+*****FALSE*******POSITITVE******
+
+*****RESPONSE******
+
+*****WHYDECODE******
+
+*****FALSE*******POSITITVE******
+
+*****RESPONSE******
+402
+*****WHYDECODE******
+
+*****FALSE*******POSITITVE******
+
+*****WHYDECODE******
+
+*****WHYDECODE******
+
+*****WHYDECODE******
+
+*****WHYDECODE******
+
+*****WHYDECODE******
+
+*****WHYDECODE******
+
+*****WHYDECODE******
+
+*****WHYDECODE******
+
+*****WHYDECODE******
+test
+{
+    "code": 200,
+    "raw_body": "{\"message\":\"Service unavailable.\",\"status\":\"failure\"}",
+    "body": {
+        "message": "Service unavailable.",
+        "status": "failure"
+    },
+    "headers": {
+        "0": "HTTP\/1.1 200 OK",
+        "Content-Type": "application\/json; charset=utf-8",
+        "Date": "Fri, 02 Sep 2016 20:10:41 GMT",
+        "Server": "Mashape\/5.0.6",
+        "Content-Length": "53",
+        "Connection": "keep-alive"
+    }
+}
+*****WHYDECODE******
+test
+{
+    "code": 200,
+    "raw_body": "{\n  \"status\": \"success\",\n  \"photo url\": \"http:\/\/www.eamondev.com\/sneekback\/images\/Joko\/8\/Joko8.jpg\",\n  \"is nude\": {\n\t\"confidence\": \"5.3%\"\n\t},\n  \"is minimal dress\": {\n\t\"confidence\": \"93.06%\"\n\t}\n}",
+    "body": {
+        "status": "success",
+        "photo url": "http:\/\/www.eamondev.com\/sneekback\/images\/Joko\/8\/Joko8.jpg",
+        "is nude": {
+            "confidence": "5.3%"
+        },
+        "is minimal dress": {
+            "confidence": "93.06%"
+        }
+    },
+    "headers": {
+        "0": "HTTP\/1.1 200 OK",
+        "Content-Encoding": "gzip",
+        "Content-Type": "text\/html",
+        "Date": "Fri, 02 Sep 2016 20:17:55 GMT",
+        "Server": "Mashape\/5.0.6",
+        "Vary": "Accept-Encoding",
+        "X-Powered-By": "PHP\/5.4.45-2+deb.sury.org~precise+2",
+        "X-RateLimit-requests-Limit": "5000",
+        "X-RateLimit-requests-Remaining": "4998",
+        "Content-Length": "161",
+        "Connection": "keep-alive"
+    }
+}
+*****WHYDECODE******
+test
+{
+    "code": 200,
+    "raw_body": "{\n  \"status\": \"success\",\n  \"photo url\": \"http:\/\/www.eamondev.com\/sneekback\/images\/Joko\/9\/Joko9.jpg\",\n  \"is nude\": {\n\t\"confidence\": \"12.54%\"\n\t},\n  \"is minimal dress\": {\n\t\"confidence\": \"42.83%\"\n\t}\n}",
+    "body": {
+        "status": "success",
+        "photo url": "http:\/\/www.eamondev.com\/sneekback\/images\/Joko\/9\/Joko9.jpg",
+        "is nude": {
+            "confidence": "12.54%"
+        },
+        "is minimal dress": {
+            "confidence": "42.83%"
+        }
+    },
+    "headers": {
+        "0": "HTTP\/1.1 200 OK",
+        "Content-Encoding": "gzip",
+        "Content-Type": "text\/html",
+        "Date": "Fri, 02 Sep 2016 20:26:11 GMT",
+        "Server": "Mashape\/5.0.6",
+        "Vary": "Accept-Encoding",
+        "X-Powered-By": "PHP\/5.4.45-2+deb.sury.org~precise+2",
+        "X-RateLimit-requests-Limit": "5000",
+        "X-RateLimit-requests-Remaining": "4996",
+        "Content-Length": "163",
+        "Connection": "keep-alive"
+    }
+}test2
+0.1254
+POSITITVE******

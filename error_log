@@ -1,131 +1,52 @@
 
-*****RESPONSE******
-402
-*****WHYDECODE******
 
-*****FALSE*******POSITITVE******
+[02-Nov-2016 00:03:54 America/Chicago] PHP Warning:  file_get_contents(images/Joinking/0/Joinking0.jpg): failed to open stream: No such file or directory in /home1/eamondev/public_html/sneekback/getimage.php on line 13
 
-*****RESPONSE******
-402
-*****WHYDECODE******
+*****   idbyuserpost    ****** 
+[02-Nov-2016 00:03:54 America/Chicago] PHP Warning:  file_get_contents(images/Joinking/0/Joinking0.jpg): failed to open stream: No such file or directory in /home1/eamondev/public_html/sneekback/getimage.php on line 13
 
-*****FALSE*******POSITITVE******
+*****   idbyuserpost    ****** 
+[02-Nov-2016 00:03:54 America/Chicago] PHP Warning:  file_get_contents(images/Joinking/0/Joinking0.jpg): failed to open stream: No such file or directory in /home1/eamondev/public_html/sneekback/getimage.php on line 13
 
-*****RESPONSE******
+*****   idbyuserpost    ****** Joinking,ewizard,Kiggffsdd,Juygfgg,
 
-*****WHYDECODE******
+*****   idbyuserpost    ****** Joinking,ewizard,Kiggffsdd,Juygfgg,
 
-*****FALSE*******POSITITVE******
+*****   idbyuserpost    ****** Joinking,ewizard,Kiggffsdd,Juygfgg,
 
-*****RESPONSE******
+*****   idbyuserpost    ****** Joinking,ewizard,Kiggffsdd,Juygfgg,
+*****groupcount exists****** 0*****stringusers variable exists****** Jjjjik,a,Kiggffsdd,Juygfgg,Suzboozecruz,
+*****   idbyuserpost    ****** Jjjjik,a,Kiggffsdd,Juygfgg,Suzboozecruz,
 
-*****WHYDECODE******
+*****   idbyuserpost    ****** Jjjjik,a,Kiggffsdd,Juygfgg,Suzboozecruz,
 
-*****FALSE*******POSITITVE******
+*****   idbyuserpost    ****** Jjjjik,a,Kiggffsdd,Juygfgg,Suzboozecruz,
 
-*****RESPONSE******
+*****   idbyuserpost    ****** Jjjjik,a,Kiggffsdd,Juygfgg,Suzboozecruz,
 
-*****WHYDECODE******
+*****   idbyuserpost    ****** Jjjjik,a,Kiggffsdd,Juygfgg,Suzboozecruz,
 
-*****FALSE*******POSITITVE******
+*****   idbyuserpost    ****** Jjjjik,a,Kiggffsdd,Juygfgg,Suzboozecruz,
 
-*****RESPONSE******
-402
-*****WHYDECODE******
+*****   idbyuserpost    ****** Jjjjik,a,Kiggffsdd,Juygfgg,Suzboozecruz,
 
-*****FALSE*******POSITITVE******
+*****   idbyuserpost    ****** Jjjjik,a,Kiggffsdd,Juygfgg,Suzboozecruz,
 
-*****WHYDECODE******
+*****   idbyuserpost    ****** Jjjjik,a,Kiggffsdd,Juygfgg,Suzboozecruz,
 
-*****WHYDECODE******
+*****   idbyuserpost    ****** Jjjjik,a,Kiggffsdd,Juygfgg,Suzboozecruz,
 
-*****WHYDECODE******
+*****   idbyuserpost    ****** Jjjjik,a,Kiggffsdd,Juygfgg,Suzboozecruz,
 
-*****WHYDECODE******
+*****   idbyuserpost    ****** Jjjjik,a,Kiggffsdd,Juygfgg,Suzboozecruz,
 
-*****WHYDECODE******
+*****   idbyuserpost    ****** Jjjjik,a,Kiggffsdd,Juygfgg,Suzboozecruz,
 
-*****WHYDECODE******
+*****   idbyuserpost    ****** 
+[02-Nov-2016 00:11:53 America/Chicago] PHP Warning:  file_get_contents(images/Jjjjik/0/Jjjjik0.jpg): failed to open stream: No such file or directory in /home1/eamondev/public_html/sneekback/getimage.php on line 13
 
-*****WHYDECODE******
+*****   idbyuserpost    ****** 
+[02-Nov-2016 00:11:53 America/Chicago] PHP Warning:  file_get_contents(images/Jjjjik/0/Jjjjik0.jpg): failed to open stream: No such file or directory in /home1/eamondev/public_html/sneekback/getimage.php on line 13
 
-*****WHYDECODE******
-
-*****WHYDECODE******
-test
-{
-    "code": 200,
-    "raw_body": "{\"message\":\"Service unavailable.\",\"status\":\"failure\"}",
-    "body": {
-        "message": "Service unavailable.",
-        "status": "failure"
-    },
-    "headers": {
-        "0": "HTTP\/1.1 200 OK",
-        "Content-Type": "application\/json; charset=utf-8",
-        "Date": "Fri, 02 Sep 2016 20:10:41 GMT",
-        "Server": "Mashape\/5.0.6",
-        "Content-Length": "53",
-        "Connection": "keep-alive"
-    }
-}
-*****WHYDECODE******
-test
-{
-    "code": 200,
-    "raw_body": "{\n  \"status\": \"success\",\n  \"photo url\": \"http:\/\/www.eamondev.com\/sneekback\/images\/Joko\/8\/Joko8.jpg\",\n  \"is nude\": {\n\t\"confidence\": \"5.3%\"\n\t},\n  \"is minimal dress\": {\n\t\"confidence\": \"93.06%\"\n\t}\n}",
-    "body": {
-        "status": "success",
-        "photo url": "http:\/\/www.eamondev.com\/sneekback\/images\/Joko\/8\/Joko8.jpg",
-        "is nude": {
-            "confidence": "5.3%"
-        },
-        "is minimal dress": {
-            "confidence": "93.06%"
-        }
-    },
-    "headers": {
-        "0": "HTTP\/1.1 200 OK",
-        "Content-Encoding": "gzip",
-        "Content-Type": "text\/html",
-        "Date": "Fri, 02 Sep 2016 20:17:55 GMT",
-        "Server": "Mashape\/5.0.6",
-        "Vary": "Accept-Encoding",
-        "X-Powered-By": "PHP\/5.4.45-2+deb.sury.org~precise+2",
-        "X-RateLimit-requests-Limit": "5000",
-        "X-RateLimit-requests-Remaining": "4998",
-        "Content-Length": "161",
-        "Connection": "keep-alive"
-    }
-}
-*****WHYDECODE******
-test
-{
-    "code": 200,
-    "raw_body": "{\n  \"status\": \"success\",\n  \"photo url\": \"http:\/\/www.eamondev.com\/sneekback\/images\/Joko\/9\/Joko9.jpg\",\n  \"is nude\": {\n\t\"confidence\": \"12.54%\"\n\t},\n  \"is minimal dress\": {\n\t\"confidence\": \"42.83%\"\n\t}\n}",
-    "body": {
-        "status": "success",
-        "photo url": "http:\/\/www.eamondev.com\/sneekback\/images\/Joko\/9\/Joko9.jpg",
-        "is nude": {
-            "confidence": "12.54%"
-        },
-        "is minimal dress": {
-            "confidence": "42.83%"
-        }
-    },
-    "headers": {
-        "0": "HTTP\/1.1 200 OK",
-        "Content-Encoding": "gzip",
-        "Content-Type": "text\/html",
-        "Date": "Fri, 02 Sep 2016 20:26:11 GMT",
-        "Server": "Mashape\/5.0.6",
-        "Vary": "Accept-Encoding",
-        "X-Powered-By": "PHP\/5.4.45-2+deb.sury.org~precise+2",
-        "X-RateLimit-requests-Limit": "5000",
-        "X-RateLimit-requests-Remaining": "4996",
-        "Content-Length": "163",
-        "Connection": "keep-alive"
-    }
-}test2
-0.1254
-POSITITVE******
+*****   idbyuserpost    ****** 
+[02-Nov-2016 00:11:53 America/Chicago] PHP Warning:  file_get_contents(images/Jjjjik/0/Jjjjik0.jpg): failed to open stream: No such file or directory in /home1/eamondev/public_html/sneekback/getimage.php on line 13
